@@ -7,4 +7,4 @@ df.count()
 
 # COMMAND ----------
 
-df.join(df2,left)
+df.join(df2,right)
